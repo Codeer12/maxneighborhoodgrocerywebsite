@@ -1,4 +1,4 @@
-@echo off
+@echo on
 echo The MNGS website is being published. Please wait for it to finish.
 git add .
 git commit -m "Batch update"
