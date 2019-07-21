@@ -1093,28 +1093,6 @@ body
    transform: rotate(0deg);
    transform-origin: 50% 50%;
 }
-#wb_Shape2 a img
-{
-   position: absolute;
-   left: 0;
-}
-#wb_Shape2 .default
-{
-   position: absolute;
-   left: 0;
-}
-#wb_Shape2 a .hover
-{
-   visibility: hidden;
-}
-#wb_Shape2 a:hover .hover
-{
-   visibility: visible;
-}
-#wb_Shape2 a:hover .default
-{
-   visibility: hidden;
-}
 #Shape2
 {
    border-width: 0;
@@ -1813,4 +1791,26 @@ body
 {
    border-width: 0;
    vertical-align: top;
+}
+#wb_Text5 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text5
+{
+   color: #FFFFF0;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 16px;
+}
+#wb_Text5 p, #wb_Text5 ul
+{
+   margin: 0;
+   padding: 0;
 }
