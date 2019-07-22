@@ -1814,3 +1814,13 @@ body
    margin: 0;
    padding: 0;
 }
+#wb_Shape4
+{
+   transform: rotate(0deg);
+   transform-origin: 50% 50%;
+}
+#Shape4
+{
+   border-width: 0;
+   vertical-align: top;
+}
